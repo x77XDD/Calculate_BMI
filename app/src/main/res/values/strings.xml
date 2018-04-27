@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="hhh">Height(cm)</string>
+    <string name="www">Weight(kg)</string>
+    <string name="ideal">Your Ideal Waist:</string>
+    <string name="whi">WHR:</string>
+    <string name="waist">Waist(cm)</string>
+    <string name="sss">Sex:</string>
+    <string name="bim">Your BIM is:</string>
+    <string name="adv">Advice:</string>
+    <string name="tab">BIM Table</string>
+
+    <string name="WHRtab">WHR</string>
+    <string name="js">计算</string>
+
+    <string name="ran">BIM range</string>
+    <string name="Categroy">Categroy</string>
+    <string name="di">低于20</string>
+    <string name="ganghao">20到25</string>
+    <string name="zhengc">正常</string>
+    <string name="chaobiao">超过25</string>
+    <string name="pang">太胖了</string>
+    <string name="shou">太瘦了</string>
+    <string name="gzdw">改为公制单位</string>
+    <string name="yzdw">改为英制单位</string>
+
+    <string name="text_1">0.34-</string>
+    <string name="text_2">Extremely Slim</string>
+    <string name="text_3">0.35-0.42</string>
+    <string name="text_4"> Healthy Slim</string>
+    <string name="text_5">0.43-0.52</string>
+    <string name="text_6"> Healthy</string>
+    <string name="text_7">0.53-0.57</string>
+    <string name="text_8">Overweight</string>
+    <string name="text_9">0.58-0.62</string>
+    <string name="text_10">Very Overweight</string>
+    <string name="text_11">0.63+</string>
+    <string name="text_12">Morbidly obese</string>
+
+
+    <string name="textc_1">5%-</string>
+    <string name="textc_3">6%-13%</string>
+    <string name="textc_5">14%-17%</string>
+    <string name="textc_7">18%-25%</string>
+    <string name="textc_9">26%+</string>
+    <string name="textc_2">Essentail fat</string>
+    <string name="textc_4">Athletes</string>
+    <string name="textc_6">Fitness</string>
+    <string name="textc_8">Acceptable</string>
+    <string name="textc_10">Obese</string>
+
+
+    <string name="textc_11">15%-</string>
+    <string name="textc_12">16%-20%</string>
+    <string name="textc_13">21%-24%</string>
+    <string name="textc_14">25%-31%</string>
+    <string name="textc_15">32%+</string>
+
+
+
+
+    <string name="gongzhi">改为公制单位</string>
+    <string name="yingzhi">改为英制单位</string>
+    <string name="jldwxz">计量单位选择</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确认</string>
+
+    <string name="back">are you sure back!</string>
+    <string name="content_alert">I have a secret，
+I want you to be softly treated by the world，
+Someone is willing to accompany you to wander，
+Even though the road is dark，
+There is always such a person，
+Do your sunshine，
+Illuminate your front！</string>
+
+
+    <string-array name="advice">
+        　　
+        <item>偏轻  你需要多吃肉！</item>
+        　　
+        <item>刚刚好  保持住你的身材！</item>
+        　　
+        <item>偏重   你该减肥了！</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
